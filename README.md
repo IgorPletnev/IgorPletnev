@@ -25,6 +25,11 @@
 
 ---
 
+##  Связь со мной
+https://max.ru/u/f9LHodD0cOIK-32HIQYsOp590cg4wtzQNyd5VX9Y5rY3leGH70bJil4Lydg
+
+---
+
 ## 📂 Мои проекты
 
 ### 🍔 Foodgram — сервис рецептов
